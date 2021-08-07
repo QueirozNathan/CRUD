@@ -2,7 +2,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
-![Alt text](https://imgur.com/a/dVELdzC/path/to/img.jpg "Optional title")
+![CRUD SCREEN](https://i.imgur.com/OmNgaip.png "Tela de exemplo do projeto")
 
 O projeto se baseia em um CRUD.
 **O que é um CRUD?**
